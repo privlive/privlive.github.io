@@ -1,13 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: О нас
+subtitle: Почему мы открыли этот проект
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Группа трейдеров проживающих на Тенерифе:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Мы работаем с Interactive Brokers
+- Мы занимаемся процессами автоматизации трейдинга
+- Мы разрабатываем методы максимизации прибыли
+- Мы исследуем различные методы защиты депозита 
+- Мы обучаем нашим методам начинающих трейдеров 
 
 What else do you need?
 

@@ -1,7 +1,7 @@
                         # --- Required options --- #
 
 title: Школа трейдинга на Тенерифе          # Name of website
-author: Person          # Your name to show in the footer
+author: Гуру          # Your name to show in the footer
 
 navbar-links:           # --- List of links in the navigation bar --- #
   About Me: "aboutme"

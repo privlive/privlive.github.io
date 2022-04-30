@@ -5,9 +5,6 @@ author: Person          # Your name to show in the footer
 
 navbar-links:           # --- List of links in the navigation bar --- #
   About Me: "aboutme"
-  About Me: "aboutme"
-  About Me: "aboutme"
-  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -15,7 +12,7 @@ navbar-links:           # --- List of links in the navigation bar --- #
 
                                 # --- Logo --- #
 avatar: "/assets/img/ssss.png"  # Image  - square image
-round-avatar: false             # By default circle.Disable 'round-avatar: false'
+round-avatar: true             # By default circle.Disable 'round-avatar: false'
 
 
 #title-img: "/assets/img/ssss.png" # image logo in the top-left corner

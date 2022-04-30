@@ -4,7 +4,7 @@ title: Школа трейдинга на Тенерифе          # Name of we
 author: Гуру          # Your name to show in the footer
 
 navbar-links:           # --- List of links in the navigation bar --- #
-  About Me: "aboutme"
+  О нас: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"

@@ -1,37 +1,21 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
+                        # --- Required options --- #
 
-# --- Required options --- #
+title: Website          # Name of website
+author: Person          # Your name to show in the footer
 
-# Name of website
-title: Website
-
-# Your name to show in the footer
-author: Person
-
-# --- List of links in the navigation bar --- #
-
-navbar-links:
+navbar-links:           # --- List of links in the navigation bar --- #
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
-# --- Logo --- #
+                                # --- Logo --- #
+#avatar: "/assets/img/ssss.png"  # Image  - square image
+#round-avatar: false             # By default circle.Disable 'round-avatar: false'
 
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/ssss.png"
 
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/ssss.png" # image logo in the top-left corner
 
 
 # --- Footer social media links --- #

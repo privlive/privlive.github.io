@@ -1,6 +1,14 @@
                         # --- Required options --- #
 
 title: Website          # Name of website
+navbar-links:           # --- List of links in the navigation bar --- #
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
+
 author: Person          # Your name to show in the footer
 
 navbar-links:           # --- List of links in the navigation bar --- #

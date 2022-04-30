@@ -11,11 +11,11 @@ navbar-links:           # --- List of links in the navigation bar --- #
   Author's home: "https://deanattali.com"
 
                                 # --- Logo --- #
-#avatar: "/assets/img/ssss.png"  # Image  - square image
-#round-avatar: false             # By default circle.Disable 'round-avatar: false'
+avatar: "/assets/img/ssss.png"  # Image  - square image
+round-avatar: false             # By default circle.Disable 'round-avatar: false'
 
 
-title-img: "/assets/img/ssss.png" # image logo in the top-left corner
+#title-img: "/assets/img/ssss.png" # image logo in the top-left corner
 
 
 # --- Footer social media links --- #
@@ -29,25 +29,11 @@ social-network-links:
   github: daattali
   twitter: daattali
   youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+
 #  instagram: deanat78
-#  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
   telegram: frxsnls
 #  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml

@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 2.00rem;
 }
 h2 {
   font-size: 1.875rem;
@@ -54,7 +54,7 @@ a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 blockquote {
-  color: #808080;
+  color: #F0F0F0;      /* --- #808080; */
   font-style: italic;
 }
 blockquote p:first-child {

@@ -12,7 +12,7 @@ O encadeamento simples também dificulta a retirada de um elemento da lista. Mes
 Porem uma solução seria utilizar uma lista duplamente encadeada no qual cada elemento tem um ponteiro para o próximo elemento e um ponteiro para o elemento anterior.
 
 ### Estrutura da Lista Duplamente encadeada
-![estrutura-lista-duplamente-encadeada](assets/img/estrutura-lde.png)
+![estrutura-lista-duplamente](assets/img/estrutura-lde.png)
 
 ### Funções a ser implementado
 

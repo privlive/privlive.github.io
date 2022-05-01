@@ -8,7 +8,7 @@ navbar-links:           # --- List of links in the navigation bar --- #
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Publications: "Publications"
+  PUPLICATIONS: "publications"
 
                                 # --- Logo --- #
 avatar: "/assets/img/ssss.png"  # Image  - square image

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lista Duplamente Encadeada
+title: Lista Duplamente
 subtitle: Implementando funções básicas
 tags: [linguagem c]
 ---
@@ -11,7 +11,7 @@ O encadeamento simples também dificulta a retirada de um elemento da lista. Mes
 
 Porem uma solução seria utilizar uma lista duplamente encadeada no qual cada elemento tem um ponteiro para o próximo elemento e um ponteiro para o elemento anterior.
 
-### Estrutura da Lista Duplamente encadeada
+### Estrutura da Lista Duplamente
 ![estrutura-lista-duplamente](assets/img/estrutura-lde.png)
 
 ### Funções a ser implementado

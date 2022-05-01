@@ -5,11 +5,17 @@ author: Гуру          # Your name to show in the footer
 
 navbar-links:           # --- List of links in the navigation bar --- #
   О нас: "aboutme"
+  Темы:
+    - Психология: "psyxo"
+    - Паттерны: "patterns"
+    - Начинающим: "begins"
+    - Темы: "tems"
+    - Проживание: "villa"
   Ссылки:
     - Trader's Academy: "https://tradersacademy.online/category/trading-courses" 
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Publications: "publications"
-
+  Книги: "publications"
+  
                                 # --- Logo --- #
 avatar: "/assets/img/ssss.png"  # Image  - square image
 round-avatar: true             # By default circle.Disable 'round-avatar: false'

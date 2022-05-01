@@ -27,4 +27,4 @@ void destruir_lista( Descritor * );
 {% endhighlight %}
 
 ### Codigo fonte:
-[Lista Duplamente Encadeada em c](/downloadables/lista_duplamente_encadeada.zip)
+[Lista Duplamente Encadeada em c](/assets/img/estrutura-lde.png)

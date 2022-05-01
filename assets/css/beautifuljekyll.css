@@ -455,7 +455,7 @@ footer .footer-custom-content {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.hover-col | default: "#4FA300" }};  /* #0085A1 blue */
 }
 
 .post-preview .post-title {
@@ -469,7 +469,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: #AA5555;       /* мармелад #808080 серый */
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;

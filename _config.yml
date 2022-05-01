@@ -11,12 +11,12 @@ navbar-links:           # --- List of links in the navigation bar --- #
   Publications: "publications"
 
                                 # --- Logo --- #
-#avatar: "/assets/img/ssss.png"  # Image  - square image
-#round-avatar: true             # By default circle.Disable 'round-avatar: false'
+avatar: "/assets/img/ssss.png"  # Image  - square image
+round-avatar: true             # By default circle.Disable 'round-avatar: false'
 
 
-title-img: "/assets/img/ssss.png" # image logo in the top-left corner
-round-title-img: true 
+#title-img: "/assets/img/ssss.png" # image logo in the top-left corner
+#round-title-img: true 
 
 # --- Footer social media links --- #
 
@@ -65,7 +65,7 @@ post_search: true
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
-navbar-col: "#CCD1D1"                     # --- Personalize the CSS colors 
+navbar-col: "#FFDD4A"                     # --- Personalize the CSS colors "#CCD1D1" 
 navbar-text-col: "#404040"
 navbar-border-col: "#FFDD4A"
 page-col: "#9FFFFF"

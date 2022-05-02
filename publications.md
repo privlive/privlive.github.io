@@ -3,10 +3,10 @@ layout: page
 title: Publications
 ---
 
-## 2022 <img src="../assets/img2/award.png" height="30px">
+## Рэй Далио. Принципы. Жизнь и работа. <img src="../assets/img2/award.png" height="30px">
 
 <img src="../assets/img2/conference-paper.png" height="20px"> 
-Ray Dalio. Principles: Life and Work. _Рэй Далио. Принципы. Жизнь и работа._
+Ray Dalio. Principles. Life and Work. 
 Основанная им инвестиционная компания Bridgewater Associates стала пятой по важности частной компанией в США (по версии Fortune). журнал CIO назвал Далио «Стивом Джобсом инвестирования».
 
 <img src="../assets/img2/conference-paper.png" height="20px"> 

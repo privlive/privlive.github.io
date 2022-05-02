@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Publications
+title: Книги
 ---
 
-## Рэй Далио. Принципы. Жизнь и работа. <img src="../assets/img2/award.png" height="30px">
-
+#### Рэй Далио.  <span style="color:darkcyan">Принципы: Жизнь и работа.</span>
 <img src="../assets/img2/conference-paper.png" height="20px"> 
-Ray Dalio. Principles. Life and Work. 
-Основанная им инвестиционная компания Bridgewater Associates стала пятой по важности частной компанией в США (по версии Fortune). журнал CIO назвал Далио «Стивом Джобсом инвестирования».
+Ray Dalio. Principles. Life and Work. <br>Основанная им инвестиционная компания Bridgewater Associates стала пятой по важности частной компанией в США. Жyрнал CIO назвал Далио «Стивом Джобсом инвестирования». 
 
 <img src="../assets/img2/conference-paper.png" height="20px"> 
 <img src="../assets/img2/award.png" height="30px">

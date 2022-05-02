@@ -57,9 +57,11 @@ blockquote {
   color: #389961;      /* --- #808080; */
   font-style: italic;
 }
+//*
 blockquote p:first-child {
   margin-top: 0;
 }
+*//
 hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
@@ -68,7 +70,7 @@ hr.small {
   border-radius: 0.1875rem;
 }
 
-/* fix in-page anchors to not be behind fixed header */
+                                                              /* fix in-page anchors to not be behind fixed header */
 :target:before {
   content: "";
   display: block;
@@ -120,7 +122,7 @@ img {
   }
 }
 
-/* --- Navbar --- */
+                                                                          /* --- Navbar --- */
 
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#FFDD4A" }}; /* --"#EAEAEA"- */
@@ -365,7 +367,7 @@ img {
   }
 }
 
-/* --- Footer --- */
+                                                                                /* --- Footer --- */
 
 footer {
   padding: 1.875rem 0;
@@ -428,7 +430,7 @@ footer .footer-custom-content {
   }
 }
 
-/* --- Post preview (feed) --- */
+                                                                  /* --- Post preview (feed) --- */
 
 .post-preview {
   padding: 1.25rem 0;
@@ -547,7 +549,7 @@ footer .footer-custom-content {
   }
 }
 
-/* --- Tags --- */
+                                                                                  /* --- Tags --- */
 
 .blog-tags {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -586,7 +588,7 @@ footer .footer-custom-content {
   }
 }
 
-/* Tags page */
+                                                                      /* Tags page */
 
 .tag-btn {
   margin: 0.3125rem;
@@ -610,7 +612,7 @@ footer .footer-custom-content {
   font-size: 1rem;
 }
 
-/* --- Post and page headers --- */
+                                                                            /* --- Post and page headers --- */
 
 .intro-header {
   margin: 5rem 0 1.25rem;
@@ -762,7 +764,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
 }
 
-/* --- Pagination --- */
+                                                                        /* --- Pagination --- */
 
 .pagination {
   margin: 0.625rem 0 0;
@@ -806,7 +808,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   background-color: {{ site.hover-col | default: "#0085A1" }};
 }
 
-/* --- Tables --- */
+                                                        /* --- Tables --- */
 
 table {
   padding: 0;
@@ -842,7 +844,7 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
-/* --- Code blocks --- */
+                                                                  /* --- Code blocks --- */
 
 code {
   padding: 0.125rem 0.25rem;
@@ -893,7 +895,7 @@ pre {
   border-right: 2px solid #444;
 }
 
-/* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
+                                                      /* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
 .lineno {
   -webkit-user-select: none;
      -moz-user-select: none;
@@ -914,14 +916,14 @@ pre {
   border: unset;
 }
 
-/* --- Social media sharing section --- */
+                                                    /* --- Social media sharing section --- */
 
 #social-share-section {
   margin-bottom: 1.875rem;
   margin-top: 1.875rem;
 }
 
-/* --- Notification boxes --- */
+                                                    /* --- Notification boxes --- */
 .box-note,
 .box-warning,
 .box-error,
@@ -953,7 +955,7 @@ pre {
   border-left-color: #3CB371;
 }
 
-/* --- Misc blog post styles --- */
+                                                      /* --- Misc blog post styles --- */
 
 .blog-post :first-child {
   margin-top: 0;
@@ -998,7 +1000,7 @@ pre {
   margin: 0 auto;
 }
 
-/* Search bar */
+                                                                      /* Search bar */
 #beautifuljekyll-search-overlay {
   display: none;
   z-index: 999999;

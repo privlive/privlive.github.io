@@ -6,7 +6,8 @@ title: Publications
 ## 2022 <img src="../assets/img2/award.png" height="30px">
 
 <img src="../assets/img2/conference-paper.png" height="20px"> 
-Nirmal Roy, David Maxwell and Claudia Hauff. *Users and Contemporary SERPs: A (Re-)Investigation*, accepted at SIGIR 2022 (reproducibility track).
+Ray Dalio. Principles: Life and Work. _Рэй Далио. Принципы. Жизнь и работа._
+Основанная им инвестиционная компания Bridgewater Associates стала пятой по важности частной компанией в США (по версии Fortune). журнал CIO назвал Далио «Стивом Джобсом инвестирования».
 
 <img src="../assets/img2/conference-paper.png" height="20px"> 
 <img src="../assets/img2/award.png" height="30px">

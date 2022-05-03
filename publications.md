@@ -2,6 +2,7 @@
 layout: page
 title: Книги
 cover-img: /assets/img/books.jpg
+share-img: /assets/img/books.jpg
 ---
 
 #### <span style="color:chocolate">Рэй Далио.</span> Принципы: Жизнь и работа.

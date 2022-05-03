@@ -2,6 +2,8 @@
 layout: page
 title: Темы занятий
 thumbnail: "/assets/img/og_iclr.png" 
+cover-img: /assets/img/educ.jpg
+share-img: /assets/img/educ.jpg
 ---
 #### <span style="color:chocolate">Общие вопросы</span>
 1. Инвестирование и спекуляции.

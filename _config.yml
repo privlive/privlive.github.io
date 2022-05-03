@@ -5,15 +5,16 @@ author: Гуру          # Your name to show in the footer
 
 navbar-links:           # --- List of links in the navigation bar --- #
   О нас: "aboutme"
-  Темы:
+  Образование:
+    - Темы: "tems"
     - Психология: "psyxo"
     - Паттерны: "patterns"
     - Начинающим: "begins"
-    - Темы: "tems"
     - Проживание: "villa"
   Ссылки:
-    - Trader's Academy: "https://tradersacademy.online/category/trading-courses" 
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - aкадемия IB: "https://tradersacademy.online/category/trading-courses" 
+    - институт CME: "https://www.cmegroup.com/education.html"
+    - markdown: "https://www.markdowntutorial.com/"
   Книги: "publications"
   
                                 # --- Logo --- #

@@ -1,16 +1,30 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Начинающим трейдерам
+subtitle: Выработайте навык учиться постоянно
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-## Under what circumstances should we step off a path? When is it essential that we finish what we start? 
+Новички должны обучаться не менее трех лет.
+Только после пяти лет, трейдеры усваивают те моменты, где они могут навредить себе.
+Выработайте навык **учиться постоянно**.
+Потратьте первые 5 недель усвоение  базовых знаний
+Научитесь  пониманть рынок, почувствуйте  разные фазы рынка 
+Затем поторгуйте несолько месяцеа на демосчете, 
+работая на реальном счете вы потеряете деньги быстрее, чем  чему-то научитесь.
+Научитесь торговать движения рынка, тренируйте реакцию и навыки на графиках,
+для разных стратегий и рынков это могут быть разные навыки, потратьте около недели на каждый навык.
+- поиск определенной графической модели. 
+- входы и выходы,
+- постановку стопов, 
+- управление позицией. 
+Полученные навыки не дадут раскачать вашу психику при реальной торговле. Этот фундамент даст вам уверенность в себе, без которой вы не сможете торговать на реальном счете.
+Сформируйте правила, и протолы для всех аспектов трейдинга. 
 
-If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+
 
 The truth is that no one else can definitively know the _path_ we are *here* to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 

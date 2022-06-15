@@ -5,13 +5,11 @@ title: Гришин Афганистан 2
 
 ### [Seminars & Invited Talks](#seminars-and-invited-talks)    |   [Conference Presentations](#conference-presentations) 
 
-![ 1 ](/assets/photo_GR/grisha-afgan/image8.png){:.center-image}
-.center-image{margin: 0 auto;display: block;}
+![ 1 ](/assets/photo_GR/grisha-afgan/image8.png){:.center-image}.center-image{margin: 0 auto;display: block;}
 
 ## Seminars and Invited Talks
 
-<img src="/assets/photo_GR/grisha-afgan/image5.png" alt=" 2 " class="center-image">
-.center-image{margin: 0 auto;display: block;}
+<img src="/assets/photo_GR/grisha-afgan/image5.png" alt=" 2 " class="center-image">{: .mx-auto.d-block :}
 
 ### Associate Professor
 

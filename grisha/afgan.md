@@ -4,23 +4,18 @@ title: Гришин Афганистан
 youtubeId: prVFn9JpbP8
 ---
 
-- Мы исследуем различные методы защиты депозита.
-- Мы разрабатываем наши собственные протоколы, программы и [торговые системы ](https://alfrxbot.github.io/systems),наша система работает как с реальными так и демосчетами, система обеспечивает удаленную работу группы трейдеров на одном счету.
-- Мы обучаем нашим наработкам начинающих трейдеров.  
-- Мы разработали свой метод оценки уровня трейдера.
 
-Гриша закончил школу № 9 в городе Шахтинск. Затем закончил инженерное училище и попадает в Афганистан в 1985 году. Службу проходил в составе 201 мотострелковой дивизии в 122 мотострелковом полку на должности командира 1 Инженерно-саперного взвода (1 ИСВ)
+Гриша закончил школу № 9 в городе Шахтинск. По окончании  инженерного военного училища в 1985 году, службу  проходил в Ограниченный контингент советских войск в Афганистане, в составе 201 мотострелковой дивизии, в 122 мотострелковом полку на должности командира 1 Инженерно-саперного взвода (1 ИСВ)
 
 #### <span style="color:chocolate">Ссылки - кто не знает про эти события.</span>
 
-- Про 122 мотострелковом полк [Здесь](https://www.bmpvsu.ru/122_msp.php) и [Здесь](http://kunduz.ru/istoriya_podrazdeleniya43)
-- И в Youtube 
+- Об 122 мотострелковом полку [Здесь](https://www.bmpvsu.ru/122_msp.php) и [Здесь](http://kunduz.ru/istoriya_podrazdeleniya43)
 {% include youtubePlayer.html id=page.youtubeId %}
 
-<img src="/assets/photo_GR/grisha-afgan/image1.png" alt=" 1 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> 
-<img src="/assets/photo_GR/grisha-afgan/image6.png" alt=" 2 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> 
-<img src="/assets/photo_GR/grisha-afgan/image3.png" alt=" 3 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> 
-<img src="/assets/photo_GR/grisha-afgan/image4.png" alt=" 4 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> 
+<img src="/assets/photo_GR/grisha-afgan/image1.png" alt=" 1 " class="mx-auto d-block shadow-sm"  width="610" > <br>
+<img src="/assets/photo_GR/grisha-afgan/image6.png" alt=" 2 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> <br>
+<img src="/assets/photo_GR/grisha-afgan/image3.png" alt=" 3 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> <br>
+<img src="/assets/photo_GR/grisha-afgan/image4.png" alt=" 4 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> <br>
 <img src="/assets/photo_GR/grisha-afgan/image7.png" alt=" 5 " class="mx-auto d-block shadow-sm"  width="610" valign='top'>
 
 ### Findings

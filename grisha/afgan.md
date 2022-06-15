@@ -17,10 +17,10 @@ youtubeId: prVFn9JpbP8
 - И в Youtube 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-<img src="/assets/photo_GR/grisha-afgan/image1.png" alt=" 1 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> <br>
-<img src="/assets/photo_GR/grisha-afgan/image6.png" alt=" 2 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> <br>
-<img src="/assets/photo_GR/grisha-afgan/image3.png" alt=" 3 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> <br>
-<img src="/assets/photo_GR/grisha-afgan/image4.png" alt=" 4 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> <br>
+<img src="/assets/photo_GR/grisha-afgan/image1.png" alt=" 1 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> 
+<img src="/assets/photo_GR/grisha-afgan/image6.png" alt=" 2 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> 
+<img src="/assets/photo_GR/grisha-afgan/image3.png" alt=" 3 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> 
+<img src="/assets/photo_GR/grisha-afgan/image4.png" alt=" 4 " class="mx-auto d-block shadow-sm"  width="610" valign='top'> 
 <img src="/assets/photo_GR/grisha-afgan/image7.png" alt=" 5 " class="mx-auto d-block shadow-sm"  width="610" valign='top'>
 
 ### Findings

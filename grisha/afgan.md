@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Гришин Афганистан
+youtubeId: prVFn9JpbP8
 ---
 
 - Мы исследуем различные методы защиты депозита.
@@ -13,13 +14,14 @@ title: Гришин Афганистан
 #### <span style="color:chocolate">АФганские ссылки - кто не знает про эти события.</span>
 
 - Про 122 мотострелковом полк [Здесь](https://www.bmpvsu.ru/122_msp.php) и [Здесь](http://kunduz.ru/istoriya_podrazdeleniya43)
-- Здесь YOUTUBE про [122 мотострелковом полк](https://www.youtube.com/watch?v=prVFn9JpbP8)
+- И в Youtube 
+{% include youtubePlayer.html id=page.youtubeId %}
 
-<img src="/assets/photo_GR/grisha-afgan/image1.png" alt=" 1 " class="mx-auto d-block shadow-sm" height="150" width="250">
-<img src="/assets/photo_GR/grisha-afgan/image6.png" alt=" 2 " class="mx-auto d-block shadow-sm" height="150" width="250">
-<img src="/assets/photo_GR/grisha-afgan/image3.png" alt=" 3 " class="mx-auto d-block shadow-sm" height="150" width="250">
-<img src="/assets/photo_GR/grisha-afgan/image4.png" alt=" 4 " class="mx-auto d-block shadow-sm" height="150" width="250">
-<img src="/assets/photo_GR/grisha-afgan/image8.png" alt=" 5 " class="mx-auto d-block shadow-sm" height="150" width="250">
+<img src="/assets/photo_GR/grisha-afgan/image1.png" alt=" 1 " class="mx-auto d-block shadow-sm"  width="610">
+<img src="/assets/photo_GR/grisha-afgan/image6.png" alt=" 2 " class="mx-auto d-block shadow-sm"  width="610">
+<img src="/assets/photo_GR/grisha-afgan/image3.png" alt=" 3 " class="mx-auto d-block shadow-sm"  width="610">
+<img src="/assets/photo_GR/grisha-afgan/image4.png" alt=" 4 " class="mx-auto d-block shadow-sm"  width="610">
+<img src="/assets/photo_GR/grisha-afgan/image7.png" alt=" 5 " class="mx-auto d-block shadow-sm"  width="610">
 
 ### Findings
 

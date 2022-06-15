@@ -5,8 +5,7 @@ title: Гришин Афганистан 2
 
 ### [Seminars & Invited Talks](#seminars-and-invited-talks)    |   [Conference Presentations](#conference-presentations) 
 
-![ 1 ](/assets/photo_GR/grisha-afgan/image8.png){: .float-left.margin-right:($spacer * .5) :}
-<img src="/assets/photo_GR/grisha-afgan/image5.png" alt=" 1 " class="float-left; rounded-circle; margin-right: 20px">
+<img src="/assets/photo_GR/grisha-afgan/image8.png" alt=" 1 " class="float-left rounded-circle" class="margin-right: 20px">
 
 Seasonal changes in the tropospheric carbon monoxide profile over the remote Southern Hemisphere evaluated using multi-model simulations and aircraft observations (talk). Atmospheric Composition and Chemistry Observations and Modelling Conference incorporating the Cape Grim Annual Science Meeting, Nov 2014.Using SEAC4RS observations to improve modelling of isoprene chemistry in GEOS-Chem (poster), presented by L. Zhu on my behalf. SEAC4RS Science Team Meeting, Apr 2014.Distant influences on Australasian atmospheric composition (talk). Atmospheric Composition and Chemistry Observations and Modelling Conference incorporating the Cape Grim Annual Science Meeting, Nov 2013.
 

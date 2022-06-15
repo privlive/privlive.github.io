@@ -31,12 +31,12 @@ We empirically validate to what extent well-known deep IR models are able to rea
 
 I grew up in **Humboldt County, California**, a beautiful rural area of northern California in heart of the redwoods. After high school, I spent a year as a Rotary exchange student in **Grenoble, France**, a beautiful town in the middle of the French Alps. I returned to the U.S. to attend Caltech (the California Institute of Technology) in **Pasadena, California**, where I obtained a degree in planetary science. 
 
-![cycling](/assets/photo_GR/grisha-afgan/image5.png){:style="float: left; margin-right: 7px;:class="img-responsive"}
+![cycling](/assets/photo_GR/grisha-afgan/image5.png){:style="mx-auto;d-block;float-left; margin-right: 7px;:class="img-responsive"}
 ![diving](/assets/photo_GR/grisha-afgan/image8.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
 ![kangaroo](/assets/photo_GR/grisha-afgan/image7.png){:class="img-responsive"}
 
 ExamplesExamples:
 
-<img src="/assets/photo_GR/grisha-afgan/image1.png" style="width: 50px max-width: 49% mx-auto d-block" alt="Debug soldier">
-<img src="/assets/photo_GR/grisha-afgan/image3.png" style="rounded-circle max-width: 49%" alt="Debug land">
+<img src="/assets/photo_GR/grisha-afgan/image1.png" width="250px" style="max-width: 49% mx-auto d-block" alt="Debug soldier">
+<img src="/assets/photo_GR/grisha-afgan/image3.png" style="rounded-circle" alt="Debug land">
 <img src="/assets/photo_GR/grisha-afgan/image4.png" style="max-width: 49%" alt="Debug z-buffer">

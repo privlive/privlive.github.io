@@ -35,7 +35,7 @@ I grew up in **Humboldt County, California**, a beautiful rural area of northern
 ![diving](/assets/photo_GR/grisha-afgan/image8.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
 ![kangaroo](/assets/photo_GR/grisha-afgan/image7.png){:class="img-responsive"}
 
-ExamplesExamples:
+Examples:
 
 <img src="/assets/photo_GR/grisha-afgan/image1.png" width="250px" style="max-width: 49% mx-auto d-block" alt="Debug soldier">
 <img src="/assets/photo_GR/grisha-afgan/image3.png" style="rounded-circle" alt="Debug land">

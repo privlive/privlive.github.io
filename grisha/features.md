@@ -137,6 +137,6 @@ To exit any screen press `q`. To cycle through different pages use `pageup` and 
 
 Examples:
 
-<img src="/img/features/debug-soldier.png" style="max-width: 49%" alt="Debug soldier">
-<img src="/img/features/debug-land.png" style="max-width: 49%" alt="Debug land">
-<img src="/img/features/debug-z-buffer.png" style="max-width: 49%" alt="Debug z-buffer">
+<img src="/assets/photo_GR/features/debug-soldier.png" style="max-width: 49%" alt="Debug soldier">
+<img src="/assets/photo_GR/features/debug-land.png" style="max-width: 49%" alt="Debug land">
+<img src="/assets/photo_GR/features/debug-z-buffer.png" style="max-width: 49%" alt="Debug z-buffer">

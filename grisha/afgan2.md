@@ -5,15 +5,21 @@ title: Гришин Афганистан 2
 
 ### [Seminars & Invited Talks](#seminars-and-invited-talks)    |   [Conference Presentations](#conference-presentations) 
 
-![presentation-pic](/assets/photo_GR/grisha-afgan/image8.png){:style="float: right;margin-left: 7px;:class="img-responsive"}
+![presentation-pic](/assets/photo_GR/grisha-afgan/image8.png){:style="float: right;margin-left: 7px;:class="img-responsive"}<br />
+
+
 
 ## Seminars and Invited Talks
 
 
+![profile-pic](/assets/photo_GR/grisha-afgan/image5.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
 
-![profile-pic](/assets/photo_GR/grisha-afgan/image8.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
+
 ### Associate Professor
+
+
 #### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
+
 #### [University of Wollongong](https://www.uow.edu.au/)
 
 ### Associate Dean (Equity, Diversity and Inclusion)

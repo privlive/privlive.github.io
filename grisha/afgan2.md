@@ -9,7 +9,7 @@ title: Гришин Афганистан 2
 
 ## Seminars and Invited Talks
 
-<img src="/assets/photo_GR/grisha-afgan/image5.png" alt=" 2 " class="center-image">
+<img src="/assets/photo_GR/grisha-afgan/image5.png" alt=" 2 " class="mx-auto d-block">
 
 ### Associate Professor
 
@@ -23,3 +23,4 @@ title: Гришин Афганистан 2
 #### [University of Wollongong](https://www.uow.edu.au/)
 
 Room G19, Building 41, Northfields Avenue  
+Room G19, Building 41, Northfields Avenue

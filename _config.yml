@@ -8,9 +8,10 @@ navbar-links:           # --- List of links in the navigation bar --- #
   Образование:
     - Темы: "tems"
     - Психология: "psyxo"
-    - Паттерны: "patterns"
+    - Паттерны: "/grisha/grisha-header"
     - Начинающим: "2020-02-26-begins"
-    - Проживание: "/grisha/media"
+    - Медиа: "/grisha/media"
+    - Aфган: "/grisha/afgan"
   Ссылки:
     - aкадемия IB: "https://tradersacademy.online/category/trading-courses" 
     - институт CME: "https://www.cmegroup.com/education.html"

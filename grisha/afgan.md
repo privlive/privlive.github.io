@@ -16,13 +16,13 @@ title: Гришин Афганистан
 - Здесь также про [122 мотострелковом полк](http://kunduz.ru/istoriya_podrazdeleniya43).
 - Здесь YOUTUBE про [122 мотострелковом полк](https://www.youtube.com/watch?v=prVFn9JpbP8)
 
-![humboldt](assets/photo_GR/grisha-afgan/image1.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
-![grenoble](assets/photo_GR/grisha-afgan/image6.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
-![caltech](assets/photo_GR/grisha-afgan/image3.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
-![ucl](assets/photo_GR/grisha-afgan/image4.png){:class="img-responsive"}
+![humboldt](/assets/photo_GR/grisha-afgan/image1.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![grenoble](/assets/photo_GR/grisha-afgan/image6.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![caltech](/assets/photo_GR/grisha-afgan/image3.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![ucl](/assets/photo_GR/grisha-afgan/image4.png){:class="img-responsive"}
 
 I grew up in **Humboldt County, California**, a beautiful rural area of northern California in heart of the redwoods. After high school, I spent a year as a Rotary exchange student in **Grenoble, France**, a beautiful town in the middle of the French Alps. I returned to the U.S. to attend Caltech (the California Institute of Technology) in **Pasadena, California**, where I obtained a degree in planetary science. 
 
-![cycling](assets/photo_GR/grisha-afgan/image5.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
-![diving](assets/photo_GR/grisha-afgan/image8.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
-![kangaroo](assets/photo_GR/grisha-afgan/image7.png){:class="img-responsive"}
+![cycling](/assets/photo_GR/grisha-afgan/image5.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![diving](/assets/photo_GR/grisha-afgan/image8.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![kangaroo](/assets/photo_GR/grisha-afgan/image7.png){:class="img-responsive"}

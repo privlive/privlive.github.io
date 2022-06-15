@@ -25,8 +25,8 @@ title: Гришин Афганистан
 
 We empirically validate to what extent well-known deep IR models are able to realize the axiomatic pattern underlying the datasets. The table :point_down: contains the main results of our work.
 
-<img src="/assets/photo_GR/grisha-afgan/image1.png" width="250px">
-<img src="/assets/photo_GR/grisha-afgan/image6.png" width="250px">
+<img src="/assets/photo_GR/grisha-afgan/image1.png" width="250px"><img src="/assets/photo_GR/grisha-afgan/image6.png" width="250px">
+<img src="/assets/photo_GR/grisha-afgan/image3.png" width="250px">
 
 I grew up in **Humboldt County, California**, a beautiful rural area of northern California in heart of the redwoods. After high school, I spent a year as a Rotary exchange student in **Grenoble, France**, a beautiful town in the middle of the French Alps. I returned to the U.S. to attend Caltech (the California Institute of Technology) in **Pasadena, California**, where I obtained a degree in planetary science. 
 

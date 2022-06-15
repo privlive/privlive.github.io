@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /features/
+permalink: /grisha/features/
 title: "Features"
 ---
 
@@ -55,16 +55,16 @@ illustrated by comparing the amount of code in related engines (as of March 2021
 *Note: added in 0.16.0.*
 
 A GUI Launcher is included to facilitate changing settings and tweaking the game.
-<img src="/img/features/launcher-tab1.jpg" style="max-width: 32.5%" alt="JA2 Stracciatella launcher tab 1">
-<img src="/img/features/launcher-tab2.jpg" style="max-width: 32.5%" alt="JA2 Stracciatella launcher tab 2">
-<img src="/img/features/launcher-tab3.jpg" style="max-width: 32.5%" alt="JA2 Stracciatella launcher tab 3">
+<img src="/assets/photo_GR/features/launcher-tab1.jpg" style="max-width: 32.5%" alt="launcher tab 1">
+<img src="/assets/photo_GR/features/launcher-tab2.jpg" style="max-width: 32.5%" alt="launcher tab 2">
+<img src="/assets/photo_GR/features/launcher-tab3.jpg" style="max-width: 32.5%" alt="launcher tab 3">
 
 
 ## High Resolution Support
 
 Added support for high video resolutions. For example, game can be started in 1680x1050  mode like this: `ja2.exe -res 1680x1050`.
 
-<img src="/img/features/high-res.jpg" style="max-width: 50%" alt="JA2 Stracciatella in 1680x1050 resolution">
+<img src="/assets/photo_GR/features/high-res.jpg" style="max-width: 50%" alt="JA2 Stracciatella in 1680x1050 resolution">
 
 
 ## Dead is Dead mode
@@ -82,7 +82,7 @@ With Dead is Dead there is no going back. If mercs die, there is no way of bring
 The engine now supports saving and loading of arbitrarily named saved games, and an arbitrary number of them.
 The load screen is enhanced with game mode, difficuly and mod info plus a scrollbar.
 
-<img src="/img/features/new_saveload.jpg" style="max-width: 50%" alt="JA2 Stracciatella's enhanced load screen">
+<img src="/assets/photo_GR/features/new_saveload.jpg" style="max-width: 50%" alt="enhanced load screen">
 
 ## Bundled optional mini-mods
 *Note: added in 0.16.0.*
@@ -115,7 +115,7 @@ for detailed instructions and caveats.
 
 The map editor is now integrated into the game. Start it through the launcher or like this: `ja2.exe -editor`.
 
-<img src="/img/features/integrated-editor.jpg" style="max-width: 50%" alt="JA2 Stracciatella Editor">
+<img src="/assets/photo_GR/features/integrated-editor.jpg" style="max-width: 50%" alt="Editor">
 
 
 ## Debug screens

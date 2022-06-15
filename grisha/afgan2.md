@@ -24,4 +24,3 @@ title: Гришин Афганистан 2
 #### [University of Wollongong](https://www.uow.edu.au/)
 
 Room G19, Building 41, Northfields Avenue  
-Wollongong, NSW 2522, Australia  

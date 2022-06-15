@@ -10,7 +10,7 @@ navbar-links:           # --- List of links in the navigation bar --- #
     - Психология: "psyxo"
     - Паттерны: "patterns"
     - Начинающим: "2020-02-26-begins"
-    - Проживание: "villa"
+    - Проживание: "/grisha/media"
   Ссылки:
     - aкадемия IB: "https://tradersacademy.online/category/trading-courses" 
     - институт CME: "https://www.cmegroup.com/education.html"
